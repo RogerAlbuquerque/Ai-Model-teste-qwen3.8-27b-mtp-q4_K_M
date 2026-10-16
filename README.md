@@ -1,0 +1,1 @@
+# Ai-Model-teste-qwen3.8-27b-mtp-q4_K_M
